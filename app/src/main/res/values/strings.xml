@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculater</string>
+    <string name="ac">AC</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="thr">3</string>
+    <string name="fore">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="sev">7</string>
+    <string name="eig">8</string>
+    <string name="ni">9</string>
+    <string name="zer">0</string>
+    <string name="dot">.</string>
+    <string name="plus">+</string>
+    <string name="min">-</string>
+    <string name="mul">x</string>
+    <string name="div">/</string>
+    <string name="pm">+/-</string>
+    <string name="mod">%</string>
+    <string name="equal">=</string>
+
+</resources>
